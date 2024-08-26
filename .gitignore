@@ -1,0 +1,18 @@
+# Virtual environments
+profile_env
+
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Local configuration
+.env
+
+# macOS / Linux
+.DS_Store
+
+# Windows
+Thumbs.db
